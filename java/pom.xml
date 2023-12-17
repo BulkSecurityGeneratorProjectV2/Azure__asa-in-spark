@@ -12,7 +12,7 @@
     </repository>
     <repository>
       <id>central2</id>
-      <url>http://central.maven.org/maven2/</url>
+      <url>https://central.maven.org/maven2/</url>
     </repository>
   </repositories>
   <dependencies>
@@ -191,7 +191,7 @@
   <pluginRepositories>
     <pluginRepository>
     <id>onejar-maven-plugin.googlecode.com</id>
-    <url>http://onejar-maven-plugin.googlecode.com/svn/mavenrepo</url>
+    <url>https://onejar-maven-plugin.googlecode.com/svn/mavenrepo</url>
     </pluginRepository>
   </pluginRepositories>
 
